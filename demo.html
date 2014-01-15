@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>高雄捷運運量變化圖</title>
+    <link rel="stylesheet" href="Styles/jquery-ui-1.10.3.custom.css">
+    <link rel="stylesheet" href="Styles/Main.css">
+    <script src="Scripts/Data.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
+    <script src="Scripts/modernizr.custom.28648.js" type="text/javascript"></script>
+    <script src="Scripts/snap.svg.js" type="text/javascript"></script>
+    <script src="Scripts/Main.js" type="text/javascript" charset="big5"></script>
+</head>
+<body>
+<div id="mainContent">
+    <div id="slider"></div>
+    <div id="infoBox">
+        <div id="dateBox">2013/11</div>
+        <div class="red total">
+            紅線總計：<span class="value"></span>
+            <svg xmlns="http://www.w3.org/2000/svg" id="redChart" class="chart">
+
+            </svg>
+        </div>
+        <div class="orange total">
+            橘線總計：<span class="value"></span>
+            <svg xmlns="http://www.w3.org/2000/svg" id="orangeChart" class="chart">
+
+            </svg>
+        </div>
+    </div>
+    <svg id="svg" xmlns="http://www.w3.org/2000/svg">
+
+    </svg>
+</div>
+</body>
+</html>

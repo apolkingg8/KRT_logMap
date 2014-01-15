@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>高雄捷運運量變化圖</title>
+    <link rel="stylesheet" href="Styles/jquery-ui-1.10.3.custom.css">
+    <link rel="stylesheet" href="Styles/Main.css">
+    <script src="Scripts/Data.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-2.0.3.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-ui-1.10.3.custom.js" type="text/javascript"></script>
+    <script src="Scripts/modernizr.custom.28648.js" type="text/javascript"></script>
+    <script src="Scripts/snap.svg.js" type="text/javascript"></script>
+
+</head>
+<body>
+    <div id="slider"></div>
+    <label></label>
+    <div class="circle"></div>
+    <body>
+    <svg width="300" height="250"   xmlns="http://www.w3.org/2000/svg" version="1.1">
+        <polyline fill="none" stroke="black" stroke-width="1">
+            <animate id="myAnim" attributeName="points" begin="0" dur="3" repeatCount="indefinite"
+                     from="108,141 109,152 108,157"
+                     to="099,140 098,149 100,153"
+                    />
+        </polyline>
+    </svg>
+    </body>
+</body>
+</html>
