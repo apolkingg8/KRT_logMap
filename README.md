@@ -6,12 +6,10 @@ Demo:[http://apolkingg8.github.io/DemoPages/KRT_logMap/demo.html](http://apolkin
 ## About that
 
 高雄捷運歷年來的進站人數變化圖  
-
-資料是從Excel公文Parse成JSON，缺100年9月，歡迎補充  
-
-目前試過Chrome, FF, IE11是OK的  
-
-Opera 12跟15+都有機率卡住，要多F5幾次(原因尋找中)
+### 資料來源
+從捷運局跟高市交通局的Excel公文Parse過來的，缺100年9月，歡迎補充  
+### 瀏覽器測試
+目前試過Chrome, FF, IE11是OK的，Opera 12跟15+都有機率卡住，要多F5幾次(原因尋找中)
 
 ## Reporting an Issue
 
