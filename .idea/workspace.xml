@@ -2,9 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a622ed5-ba63-4382-bed6-6124c9a6a2e4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Styles/Main.css" afterPath="$PROJECT_DIR$/Styles/Main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/Main.js" afterPath="$PROJECT_DIR$/Scripts/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Styles/Main.less" afterPath="$PROJECT_DIR$/Styles/Main.less" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\css\ui-darkness\jquery-ui-1.10.3.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\css\ui-darkness\jquery-ui-1.10.3.custom.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\README.md" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\demos.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\demo-config-on-tile.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\demo-config-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\demo-spindown-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\demo-spindown-open.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\icon-docs-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\images\pbar-ani.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\index.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\colorpicker.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\default.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\hotelrooms.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\index.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\multiple-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\range-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\range.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\rangemax.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\rangemin.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\side-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\slider-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\slider\steps.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\widget\default.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\demos\widget\index.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\docs\jQuery.widget.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\docs\mouse.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\docs\slider.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\globalize.culture.de-DE.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\globalize.culture.ja-JP.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\globalize.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\jshint.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\external\qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\jquery-1.9.1.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\package.json" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\jquery.ui.core.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\jquery.ui.slider.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\base\minified\jquery.ui.theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_flat_30_cccccc_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_flat_50_5c5c5c_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_glass_20_555555_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_glass_40_0078a3_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_glass_40_ffc73d_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_gloss-wave_25_333333_500x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_highlight-soft_80_eeeeee_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_inset-soft_25_000000_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-bg_inset-soft_30_f58400_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-icons_4b8e0b_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-icons_a83300_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-icons_cccccc_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\images\ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_flat_30_cccccc_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_flat_50_5c5c5c_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_glass_20_555555_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_glass_40_0078a3_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_glass_40_ffc73d_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_gloss-wave_25_333333_500x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_highlight-soft_80_eeeeee_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_inset-soft_25_000000_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-bg_inset-soft_30_f58400_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-icons_4b8e0b_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-icons_a83300_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-icons_cccccc_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\images\ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\jquery.ui.core.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\jquery.ui.slider.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\themes\ui-darkness\minified\jquery.ui.theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui.core.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui.mouse.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui.slider.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui.widget.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\jquery-ui.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\jquery.ui.core.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\jquery.ui.mouse.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\jquery.ui.slider.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\jquery.ui.widget.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\minified\jquery-ui.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\minified\jquery.ui.core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\minified\jquery.ui.mouse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\minified\jquery.ui.slider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\development-bundle\ui\minified\jquery.ui.widget.min.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\index.html" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\js\jquery-1.9.1.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\js\jquery-ui-1.10.3.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="H:\Works\KRT_logMap\jquery-ui-1.10.3.custom (1)\jquery-ui-1.10.3.custom\js\jquery-ui-1.10.3.custom.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KRT_logMap.iws" />
@@ -307,7 +442,11 @@
       <created>1389793654551</created>
       <updated>1389793654551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="base ver.">
+      <created>1389795786241</created>
+      <updated>1389795786241</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
