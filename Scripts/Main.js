@@ -262,7 +262,7 @@ var initSVG = function(){
     });
     setTimeout(function(){
         drawLine(orangeLine, 0, 'orangeLine');
-    }, 600);
+    }, 900);
 
 };
 
